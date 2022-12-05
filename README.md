@@ -1,8 +1,9 @@
 # Practica2_CreditCard_Fraud
 
  **Due to file size, it was unable to upload de raw dataset and the processed version. When tried to upload it via LFS the Following error appears:**
-
 _This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access._
+
+
 
 
 Practica1_CreditCard_Fraud structure:
